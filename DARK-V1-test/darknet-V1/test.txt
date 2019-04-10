@@ -1,0 +1,14 @@
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame623.jpg
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame621.jpg
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame581.jpg
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame784.jpg
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame494.jpg
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame087.jpg
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame521.jpg
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame478.jpg
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame730.jpg
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame728.jpg
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame111.jpg
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame303.jpg
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame414.jpg
+/Users/elhassanitouraya/Desktop/DARK-V1-test/YOLO-Annotation-Tool-master/Multi-Image-Train/frame412.jpg
